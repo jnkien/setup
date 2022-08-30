@@ -1,0 +1,6 @@
+[
+    {
+        "key": "ctrl+shift+enter",
+        "command": "python.execInTerminal"
+    }
+]

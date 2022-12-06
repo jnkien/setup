@@ -1,9 +1,26 @@
 {
+    "python.jediEnabled": false,
+    "python.languageServer": "Pylance",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "python.showStartPage": false,
+    "settingsSync.ignoredExtensions": [],
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "explorer.confirmDelete": false,
+    "editor.renderWhitespace": "all",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
     "http.proxy": "http://localhost:3128",
     "http.proxyStrictSSL": false,
     "editor.bracketPairColorization.enabled": true,
-    "editor.guides.bracketPairs":"active",
-    "editor.renderWhitespace": "all",
+    "editor.guides.bracketPairs": "active",
     "editor.tabSize": 4,
     "editor.insertSpaces": true,
     "editor.detectIndentation": false,

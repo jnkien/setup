@@ -16,9 +16,10 @@
     "explorer.confirmDelete": false,
     "editor.renderWhitespace": "all",
     "python.formatting.provider": "black",
-    "editor.formatOnSave": true,
-    "http.proxy": "http://localhost:3128",
+    "editor.formatOnSave": false,
     "http.proxyStrictSSL": false,
+
+
     "editor.bracketPairColorization.enabled": true,
     "editor.guides.bracketPairs": "active",
     "editor.tabSize": 4,
@@ -30,5 +31,7 @@
     "gitlens.advanced.messages": {
         "suppressGitVersionWarning": true
     },
-    "files.autoSave": "onFocusChange"
+    "files.autoSave": "onFocusChange",
+    "redhat.telemetry.enabled": false,
+    "explorer.confirmDragAndDrop": false
 }
